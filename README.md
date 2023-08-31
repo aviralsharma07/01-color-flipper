@@ -14,8 +14,10 @@ Check out the live project [here](https://color-flipper-avi.netlify.app).
 
 ## Screenshots
 
-![Screenshot 1](./screenshots/dekstop-img.png)
-![Screenshot 2](screenshots/mobile-img.png)
+<div>
+  <img src="/screenshots/dekstop-img.png" alt="desktop-result" width="700" height=""/>
+  <img src="/screenshots/mobile-img.png" alt="mobile-result" width="300" height=""/>
+</div>
 
 ## Technologies Used
 
