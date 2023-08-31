@@ -41,10 +41,8 @@ If you'd like to contribute to this project, follow these steps:
 4. Push to the branch: `git push origin feature-name`
 5. Create a pull request.
 
-## Acknowledgements
+## Contact Author
 
-- [Aviral Sharma](https://github.com/aviralsharma07) - Project Creator
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me at [your@email.com].
+- Blogs - [Add your name here](https://hashnode.com/@aviralsharma)
+- Frontend Mentor - [aviralsharma07](https://www.frontendmentor.io/profile/aviralsharma07)
+- Twitter - [\_aviral07](https://www.twitter.com/_aviral07)
