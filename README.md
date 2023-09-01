@@ -43,6 +43,6 @@ If you'd like to contribute to this project, follow these steps:
 
 ## Contact Author
 
-- Blogs - [Add your name here](https://hashnode.com/@aviralsharma)
+- Blogs - [Hashnode Blogs](https://hashnode.com/@aviralsharma)
 - Frontend Mentor - [aviralsharma07](https://www.frontendmentor.io/profile/aviralsharma07)
 - Twitter - [\_aviral07](https://www.twitter.com/_aviral07)
